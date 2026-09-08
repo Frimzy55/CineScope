@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/CineScope/static/css/main.149f0bbf.css",
-    "main.js": "/CineScope/static/js/main.8afd5605.js",
-    "static/js/453.3852239a.chunk.js": "/CineScope/static/js/453.3852239a.chunk.js",
-    "index.html": "/CineScope/index.html",
-    "main.149f0bbf.css.map": "/CineScope/static/css/main.149f0bbf.css.map",
-    "main.8afd5605.js.map": "/CineScope/static/js/main.8afd5605.js.map",
-    "453.3852239a.chunk.js.map": "/CineScope/static/js/453.3852239a.chunk.js.map"
+    "main.css": "/static/css/main.149f0bbf.css",
+    "main.js": "/static/js/main.ba203e48.js",
+    "static/js/453.3852239a.chunk.js": "/static/js/453.3852239a.chunk.js",
+    "index.html": "/index.html",
+    "main.149f0bbf.css.map": "/static/css/main.149f0bbf.css.map",
+    "main.ba203e48.js.map": "/static/js/main.ba203e48.js.map",
+    "453.3852239a.chunk.js.map": "/static/js/453.3852239a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.149f0bbf.css",
-    "static/js/main.8afd5605.js"
+    "static/js/main.ba203e48.js"
   ]
 }
